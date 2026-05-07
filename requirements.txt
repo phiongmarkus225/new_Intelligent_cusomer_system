@@ -1,0 +1,10 @@
+langchain
+langchain-groq
+langchain-postgres
+langchain-huggingface
+psycopg2-binary
+pgvector
+streamlit
+python-dotenv
+pandas
+sentence-transformers

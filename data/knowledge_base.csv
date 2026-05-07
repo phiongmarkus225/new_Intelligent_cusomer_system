@@ -1,0 +1,51 @@
+category,tag,question,answer
+FAQ,Account,Bagaimana cara mereset password akun saya?,Anda dapat mereset password dengan mengklik tombol 'Lupa Password' pada halaman login. Tautan reset password akan dikirim ke email terdaftar Anda.
+FAQ,Account,Bagaimana cara mengubah alamat email saya?,"Anda bisa mengubah alamat email melalui menu 'Pengaturan Akun', lalu pilih 'Ubah Email' dan ikuti instruksi yang diberikan."
+FAQ,Payment,Metode pembayaran apa saja yang diterima?,"Kami menerima kartu kredit/debit (Visa, MasterCard), transfer bank (BCA, Mandiri, BNI, BRI), dan e-wallet (GoPay, OVO, Dana)."
+FAQ,Shipping,Berapa lama waktu pengiriman pesanan?,"Waktu pengiriman standar memakan waktu 2-3 hari kerja untuk wilayah Jabodetabek, dan 3-7 hari kerja untuk luar pulau."
+FAQ,Shipping,Apakah saya bisa melacak pesanan saya?,"Ya, Anda dapat melacak pesanan dengan memasukkan nomor resi pada menu 'Lacak Pesanan' di website atau aplikasi kami."
+FAQ,Account,Bagaimana cara menghapus akun saya?,"Untuk menghapus akun, silakan hubungi tim dukungan pelanggan kami melalui email, dan proses akan memakan waktu hingga 30 hari."
+FAQ,Payment,Mengapa pembayaran saya ditolak?,"Pembayaran bisa ditolak karena saldo tidak mencukupi, informasi kartu salah, atau batas limit transaksi telah tercapai. Silakan hubungi bank Anda."
+FAQ,Product,Apakah produk memiliki garansi?,"Ya, sebagian besar produk elektronik kami memiliki garansi resmi 1 tahun dari produsen."
+FAQ,Account,Bolehkah saya memiliki lebih dari satu akun?,"Sesuai kebijakan kami, satu pengguna hanya diperbolehkan memiliki satu akun utama. Akun duplikat dapat dibekukan."
+FAQ,Promo,Bagaimana cara menggunakan kode promo?,Kode promo dapat dimasukkan pada halaman checkout sebelum Anda menyelesaikan pembayaran.
+FAQ,Promo,Mengapa kode promo saya tidak bisa digunakan?,"Kode promo mungkin sudah kadaluarsa, kuota telah habis, atau tidak memenuhi syarat minimum pembelian."
+FAQ,Order,Bisakah saya membatalkan pesanan?,Pesanan hanya dapat dibatalkan jika statusnya belum 'Diproses'. Anda bisa melakukannya melalui menu 'Pesanan Saya'.
+FAQ,Order,Bagaimana cara mengubah alamat pengiriman pesanan?,"Alamat pengiriman tidak bisa diubah jika pesanan sudah diproses. Jika belum, Anda dapat membatalkan pesanan dan membuat pesanan baru."
+FAQ,Product,Apakah saya bisa memesan barang yang sedang kosong?,Anda bisa menggunakan fitur 'Beritahu Saya' agar mendapat notifikasi saat barang kembali tersedia.
+Policy,Return,Apa kebijakan pengembalian barang?,"Barang dapat dikembalikan dalam waktu 7 hari sejak diterima, asalkan masih dalam kondisi asli dan segel belum terbuka."
+Policy,Refund,Bagaimana proses pengembalian dana (refund)?,Pengembalian dana akan diproses ke metode pembayaran awal dalam waktu 3-5 hari kerja setelah barang retur kami terima dan periksa.
+Policy,Privacy,Apakah data pribadi saya aman?,Kami menggunakan enkripsi standar industri (SSL) untuk melindungi data pribadi Anda dan tidak akan membagikannya kepada pihak ketiga tanpa izin.
+Policy,Terms,Apa syarat dan ketentuan penggunaan layanan?,Syarat dan ketentuan lengkap dapat dibaca pada halaman 'Terms and Conditions' di bagian bawah website kami.
+Policy,Shipping,Apakah ada kebijakan pengiriman gratis?,Pengiriman gratis berlaku untuk pesanan di atas Rp 500.000 untuk wilayah Jabodetabek.
+Policy,Warranty,Apa yang tidak dicakup dalam garansi?,"Garansi tidak mencakup kerusakan akibat kelalaian pengguna, bencana alam, atau modifikasi tidak resmi."
+Policy,Return,Siapa yang menanggung biaya ongkir pengembalian?,"Biaya ongkir pengembalian ditanggung oleh pembeli, kecuali jika barang yang diterima rusak atau tidak sesuai pesanan."
+Policy,Privacy,Bagaimana cara meminta penghapusan data saya?,Permintaan penghapusan data (Right to be Forgotten) dapat diajukan dengan mengirim email ke privacy@perusahaan.com.
+Policy,Order,Apakah perusahaan berhak membatalkan pesanan sepihak?,"Kami berhak membatalkan pesanan jika terindikasi adanya penipuan, kesalahan harga sistem, atau stok habis secara tidak terduga."
+Policy,Review,Apa kebijakan moderasi ulasan produk?,"Ulasan yang mengandung kata kasar, spam, atau tidak relevan dengan produk akan dihapus oleh moderator kami."
+Policy,Affiliate,Bagaimana kebijakan program afiliasi?,"Komisi afiliasi diberikan sebesar 5% dari setiap penjualan sukses melalui link unik Anda, dibayarkan setiap tanggal 15."
+Troubleshooting,Login,"Saya tidak bisa login, muncul pesan 'Kredensial Tidak Valid'.","Pastikan email dan password yang Anda masukkan benar. Perhatikan penggunaan huruf kapital. Jika masih gagal, gunakan fitur 'Lupa Password'."
+Troubleshooting,App,Aplikasi sering crash atau keluar sendiri.,"Cobalah untuk meng-update aplikasi ke versi terbaru, hapus cache aplikasi, atau restart perangkat Anda."
+Troubleshooting,Payment,Saldo sudah terpotong tapi status pesanan masih 'Menunggu Pembayaran'.,"Mohon tunggu hingga 15 menit. Jika status tidak berubah, kirimkan bukti transfer ke Customer Service kami untuk pengecekan manual."
+Troubleshooting,Web,Halaman website tidak bisa dimuat (blank white screen).,"Silakan bersihkan cache dan cookies browser Anda, atau coba buka website menggunakan mode incognito (penyamaran)."
+Troubleshooting,Promo,Voucher gratis ongkir tidak memotong biaya pengiriman.,Pastikan Anda sudah memilih ekspedisi yang mendukung voucher tersebut dan memenuhi syarat minimum belanja.
+Troubleshooting,Account,Saya tidak menerima email verifikasi.,"Cek folder Spam atau Junk di email Anda. Jika tidak ada, klik tombol 'Kirim Ulang Email Verifikasi' di halaman profil."
+Troubleshooting,Product,Produk elektronik yang baru dibeli tidak bisa menyala.,"Pastikan kabel power terhubung dengan benar dan stopkontak berfungsi. Jika masih tidak menyala, hubungi CS untuk proses retur barang cacat (DOA)."
+Troubleshooting,App,Fitur GPS tidak mendeteksi lokasi saya dengan benar.,Pastikan Anda telah memberikan izin lokasi pada aplikasi. Pergi ke Pengaturan HP > Aplikasi > Izin > aktifkan Lokasi.
+Troubleshooting,Order,Nomor resi pengiriman tidak bisa dilacak.,Data resi biasanya butuh waktu 1x24 jam untuk terupdate di sistem kurir. Silakan coba lacak kembali besok hari.
+Troubleshooting,Web,Tombol 'Beli Sekarang' tidak bisa diklik.,"Kemungkinan stok barang sedang dikunci karena ada pembeli lain yang sedang di halaman checkout, atau Anda perlu menyegarkan halaman."
+Troubleshooting,Account,Akun saya tiba-tiba terkunci.,Akun terkunci biasanya karena terlalu banyak percobaan login yang salah. Tunggu 30 menit atau hubungi CS untuk verifikasi identitas.
+Troubleshooting,App,Notifikasi aplikasi tidak masuk di HP saya.,"Buka pengaturan notifikasi di HP Anda, pastikan izin notifikasi untuk aplikasi kami dalam keadaan aktif."
+Troubleshooting,Payment,Gagal melakukan pembayaran dengan kartu kredit (Error 3D Secure).,"Pastikan nomor HP yang terdaftar di bank aktif untuk menerima SMS OTP. Jika tidak masuk, hubungi bank penerbit kartu."
+Troubleshooting,Review,Saya tidak bisa mengunggah foto pada ulasan produk.,Pastikan ukuran foto tidak melebihi 5MB dan format foto adalah JPG atau PNG.
+Contact Information,CS,Bagaimana cara menghubungi Customer Service?,"Anda bisa menghubungi CS kami melalui Live Chat di aplikasi (24/7), email ke support@perusahaan.com, atau telepon ke 1500-123."
+Contact Information,CS,Berapa jam operasional Call Center?,"Call Center kami (1500-123) beroperasi setiap hari Senin hingga Minggu, pukul 08:00 - 20:00 WIB."
+Contact Information,Social,Apa saja akun media sosial resmi perusahaan?,"Instagram: @perusahaan_id, Twitter: @perusahaan_care, Facebook: Perusahaan Indonesia."
+Contact Information,Office,Di mana alamat kantor pusat perusahaan?,"Kantor pusat kami berlokasi di Gedung Sudirman Tower, Lt. 15, Jl. Jend. Sudirman Kav 21, Jakarta Selatan 12920."
+Contact Information,Business,Ke mana saya harus mengirim proposal kerjasama bisnis?,"Untuk keperluan B2B dan partnership, silakan kirimkan email dan proposal Anda ke partnership@perusahaan.com."
+Contact Information,Career,Di mana saya bisa melihat info lowongan kerja?,Informasi lowongan kerja terbaru dapat dilihat di halaman karir kami di karir.perusahaan.com atau akun LinkedIn resmi perusahaan.
+Contact Information,Press,Kontak untuk kebutuhan media dan press release?,Rekan-rekan media dapat menghubungi tim Public Relations kami melalui email di pr@perusahaan.com.
+Contact Information,Store,Apakah perusahaan memiliki toko offline?,Saat ini kami beroperasi 100% secara online dan belum memiliki toko fisik (offline store).
+Contact Information,CS,Berapa lama SLA balasan email CS?,Tim CS kami berkomitmen untuk membalas semua email masuk dalam waktu maksimal 1x24 jam kerja.
+Contact Information,Complaint,Bagaimana prosedur eskalasi keluhan tingkat lanjut?,"Jika solusi dari CS dirasa kurang memuaskan, Anda bisa membalas tiket email dengan subject [ESKALASI], maka tim Supervisor akan menanganinya."
+Contact Information,Feedback,Di mana saya bisa memberikan saran atau masukan untuk aplikasi?,Kami sangat menghargai masukan Anda. Silakan isi form feedback di menu 'Bantuan' > 'Beri Masukan'.
