@@ -289,3 +289,6 @@ python benchmark.py
 - [x] Chat format yang user-friendly
 - [x] Real-time response (spinner)
 - [x] Loading indicator
+
+### Link
+https://newintelligentcusomersystem.streamlit.app/
